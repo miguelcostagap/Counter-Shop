@@ -10,9 +10,11 @@
 
 ## < The Project >
 
-The objective is to simulate a journey through the galaxy, in the company of Droid C-3PO.
-
-Thus, features were incorporated with activities to carry out on each planet in the galaxy.
+Operations available:
+- Add Items;
+- Remove Items;
+- Reset them;
+- Increment them.
 
 ## < Languages/Libraries Used >
 
